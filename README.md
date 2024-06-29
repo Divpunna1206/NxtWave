@@ -1,1 +1,1 @@
-# NxtWave
+#React JS Project
